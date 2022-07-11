@@ -12,3 +12,8 @@ $ docker compose up -d
 ```bash
 $ docker compose exec app /bin/bash
 ```
+
+1
+2
+3
+
