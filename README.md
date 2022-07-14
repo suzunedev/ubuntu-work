@@ -13,7 +13,3 @@ $ docker compose up -d
 $ docker compose exec app /bin/bash
 ```
 
-1
-2
-3
-
